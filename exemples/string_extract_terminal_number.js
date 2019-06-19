@@ -1,6 +1,6 @@
 
 /**
- * Extract terminal number og a string
+ * Extract terminal number of a string
  */
 const str = "folder_10"
 const number = str.match(/\d+$/)[0]
